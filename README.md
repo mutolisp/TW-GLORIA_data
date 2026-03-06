@@ -1,7 +1,7 @@
 # Vegetation data of long-term monitoring in alpine/high-mountain areas following the GLORIA multi summits approach 
 
 ## GLORIA Taiwan vegetation data
-2025-05-14 version 1.2 (by Cheng-Tao Lin chengtaolin@ntu.edu.tw) 
+2026-03-06 version 1.3 (by Cheng-Tao Lin chengtaolin@ntu.edu.tw) 
 
 
 Progress Overview:
@@ -57,3 +57,5 @@ Acts as a taxonomic authority file for the dataset. It links shorthand species c
 #### 42_gbif_checked
 Stores results from GBIF taxonomic name matching using nomenMatch (http://match.taibif.tw). It includes original names, matched accepted names, GBIF IDs, hierarchical taxonomy, and quality flags. Used for validating species lists and resolving synonyms.
 
+#### 51_ListContributors
+List of the contributors
